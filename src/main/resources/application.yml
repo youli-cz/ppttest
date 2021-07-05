@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+swagger:
+  enabled: true
+  title: API文档
+  description: 接口文档
+  contact:
+    name: zhchen
+    email: zhchen@pisx.com
+  base-package: com.cz.ppttest.controller
+
